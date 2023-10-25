@@ -1,0 +1,8 @@
+{
+  "name": "mangas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "02e54a08"
+}
